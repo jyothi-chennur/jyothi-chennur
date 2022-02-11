@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jyothi-chennur
+- 👋 I’m @jyothi-chennur
 - 👀 I’m interested in IT technologies
 - 🌱 I’m currently learning Microsoft Azure
 - 💞️ I’m looking to collaborate on cool Azure projects
