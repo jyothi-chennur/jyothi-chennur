@@ -5,7 +5,7 @@ As an active job seeker in the field of IT, I am currently honing my skills in t
 - 👀 Interested in cloud technologies
 - 🌱 Learning Microsoft Azure
 - 📫 Reachable on [LinkedIn](linkedin.com/in/jyothi-chennur-ba8b51128)
-- 🏠 Enjoy cooking, traveling and spending time with my little kids
+- 🏠 Enjoy cooking, traveling, spending time with my little kids
 
 <!---
 jyothi-chennur/jyothi-chennur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
