@@ -1,6 +1,6 @@
 ## :wave: I'm Jyothi! 
 
-As an active job seeker in the field of IT, I am currently honing my skills in the areas of ☁️ Cloud computing, 🚀 DevOps, and Automation 🤖
+As an active job seeker in the field of IT, I am currently honing my skills in the areas of ☁️ Cloud computing, 🚀 DevOps, and 🤖 Automation.
 
 - 👀 Interested in cloud technologies
 - 🌱 Learning Microsoft Azure
