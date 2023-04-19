@@ -2,7 +2,7 @@
 
 As an active job seeker in the field of IT, I am currently honing my skills in the areas of ☁️ Cloud computing, 🚀 DevOps, and 🤖 Test Automation.
 
-- 👀 Interested in cloud technologies
+- 👀 Interested in cloud technologies and Test Automation
 - 🌱 Learning Microsoft Azure
 - 📫 Reachable on [LinkedIn](linkedin.com/in/jyothi-chennur-ba8b51128)
 - 🏠 Enjoy cooking, traveling, spending time with my little kids
